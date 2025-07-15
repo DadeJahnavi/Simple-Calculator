@@ -24,9 +24,6 @@ The Calculator is a clean, intuitive web tool designed to perform basic arithmet
 | `script.js`  | Functional logic for all calculator operations    |
 | `README.md`  | You’re reading it!                                |
 
-## 📸 Screenshot
-![screenshot](C:\Users\Administrator\OneDrive\Pictures\Screenshots 1\Simple Calculator.png)
-
 ## 🚀 Live Demo
 [[Click here to try it](https://basiccompute.netlify.app/)]
 
