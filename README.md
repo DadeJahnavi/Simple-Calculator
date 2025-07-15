@@ -25,10 +25,10 @@ The Calculator is a clean, intuitive web tool designed to perform basic arithmet
 | `README.md`  | You’re reading it!                                |
 
 ## 📸 Screenshot
-![screenshot](screenshot.png)
+![screenshot](C:\Users\Administrator\OneDrive\Pictures\Screenshots 1\Simple Calculator.png)
 
 ## 🚀 Live Demo
-[[Click here to try it](https://basiccompute.netlify.app/)](#)
+[[Click here to try it](https://basiccompute.netlify.app/)]
 
 ## 🚀 How to Run Locally
 
