@@ -28,7 +28,7 @@ The Calculator is a clean, intuitive web tool designed to perform basic arithmet
 ![screenshot](screenshot.png)
 
 ## 🚀 Live Demo
-[Click here to try it](#)
+[[Click here to try it](https://basiccompute.netlify.app/)](#)
 
 ## 🚀 How to Run Locally
 
